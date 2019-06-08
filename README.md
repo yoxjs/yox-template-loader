@@ -2,7 +2,7 @@
 
 If you want to use the `runtime` version of yoxjs, you have to precompile the `template` at first.
 
-This is a Webpack loader for precompiling yox template file.
+This is a webpack loader for precompiling yox template file.
 
 # Install
 
