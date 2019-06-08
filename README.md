@@ -1,18 +1,38 @@
-# yox-loader
+# yox-template-loader
+
+Webpack loader for yox template file.
+
+# Install
+
+NPM
+
+```
+npm i yox-template-loader
+```
+
+YARN
+
+```
+yarn add yox-template-loader
+```
+
+# Usage
+
+xx.html
+
 ```html
-<!-- a.html -->
 <div class="example">
-  {{ msg }}
+  {{msg}}
 </div>
 ```
-> npm i yox-template-loader
+
+webpack.config.js
 
 ```js
-// webpack.config.js
 rules: [
   {
     test: /\/src\/.*?\.html$/,
-    use: [ {
+    use: [{
       loader: 'yox-template-loader'
     }]
   }
