@@ -1,6 +1,8 @@
 # yox-template-loader
 
-Webpack loader for yox template file.
+If you want to use the `runtime` version of yoxjs, you have to precompile the `template` at first.
+
+This is a Webpack loader for precompiling yox template file.
 
 # Install
 
