@@ -20,7 +20,9 @@ yarn add yox-template-loader
 
 # Usage
 
-xx.html
+xx.hbs
+
+> `.hbs` is recommended, that is a `Handlebars` file extname
 
 ```html
 <div class="example">
@@ -33,7 +35,7 @@ webpack.config.js
 ```js
 rules: [
   {
-    test: /\/src\/.*?\.html$/,
+    test: /\/src\/.*?\.hbs$/,
     use: [{
       loader: 'yox-template-loader'
     }]
