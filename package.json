@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/yoxjs/yox-template-loader#readme",
   "devDependencies": {
-    "yox": "^1.0.0-alpha.75"
+    "yox": "^1.0.0-alpha.76"
   }
 }
