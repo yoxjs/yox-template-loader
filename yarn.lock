@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-yox@^1.0.0-alpha.86:
-  version "1.0.0-alpha.86"
-  resolved "https://registry.npmjs.org/yox/-/yox-1.0.0-alpha.86.tgz#f018824ba031a005865c08c4d8592eb0a848e212"
-  integrity sha512-N9vKpGIQ8dLGefDy+h7uR32m89aQEDRIfJTJ03/T3ZFHMX7Ys9npFITqCtW7JNzFykCO2EMvqXUuVn5zvMMdbw==
+yox@^1.0.0-alpha.88:
+  version "1.0.0-alpha.88"
+  resolved "https://registry.npmjs.org/yox/-/yox-1.0.0-alpha.88.tgz#a54dd52c247b12f9668111271a19ad5d7eb7378a"
+  integrity sha512-XEEfYsKNg6F15nkjgMEOoqqF6gzpAufUQ9mcTxEsOOaNap5IN7b3w7MSXIpf7BrXBwTmaEzwZ5+6AzgUS3a6nQ==
