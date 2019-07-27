@@ -1,4 +1,3 @@
-
 const Yox = require('yox')
 
 module.exports = function (content) {
