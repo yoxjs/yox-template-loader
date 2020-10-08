@@ -1,6 +1,6 @@
 {
   "name": "yox-template-loader",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,11 +13,11 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "bugs": {
+  "bugs": {  
     "url": "https://github.com/yoxjs/yox-template-loader/issues"
   },
   "homepage": "https://github.com/yoxjs/yox-template-loader#readme",
   "dependencies": {
-    "yox": "^1.0.0-alpha.122"
+    "yox": "^1.0.0-alpha.124"
   }
 }
