@@ -1,6 +1,6 @@
 {
   "name": "yox-template-loader",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/yoxjs/yox-template-loader#readme",
   "dependencies": {
-    "yox": "^1.0.0-alpha.400"
+    "yox": "^1.0.0-alpha.401"
   }
 }
